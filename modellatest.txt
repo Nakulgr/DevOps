@@ -7,7 +7,7 @@
  */
 
 hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-
+/* hello by Ankay */
 namespace com.bt.roaming
 
 asset rs identified by msisdn{
