@@ -22,6 +22,7 @@
 * @param {com.bt.roaming.discovery} tx1 -transaction 1
 * @transaction
 */
+/* ankayarkanni */
 function discovery(tx1) {
 
 // Save the old value of the asset.
