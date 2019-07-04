@@ -35,6 +35,10 @@ tx1.asset.lat = tx1.lat;
 tx1.asset.long = tx1.long;
 //tx1.asset.flag = "";
 
+"My Name is Nakul Grover"
+"Thanks You"
+"BYE!!"
+
 // Get the asset registry for the asset.
 return getAssetRegistry('com.bt.roaming.rs')
 .then(function (assetRegistry) {
